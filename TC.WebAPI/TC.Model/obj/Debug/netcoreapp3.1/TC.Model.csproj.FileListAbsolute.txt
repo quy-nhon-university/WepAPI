@@ -1,0 +1,8 @@
+D:\TT\TC.WebAPI\TC.Model\bin\Debug\netcoreapp3.1\TC.Model.deps.json
+D:\TT\TC.WebAPI\TC.Model\bin\Debug\netcoreapp3.1\TC.Model.dll
+D:\TT\TC.WebAPI\TC.Model\bin\Debug\netcoreapp3.1\TC.Model.pdb
+D:\TT\TC.WebAPI\TC.Model\obj\Debug\netcoreapp3.1\TC.Model.AssemblyInfoInputs.cache
+D:\TT\TC.WebAPI\TC.Model\obj\Debug\netcoreapp3.1\TC.Model.AssemblyInfo.cs
+D:\TT\TC.WebAPI\TC.Model\obj\Debug\netcoreapp3.1\TC.Model.dll
+D:\TT\TC.WebAPI\TC.Model\obj\Debug\netcoreapp3.1\TC.Model.pdb
+D:\TT\TC.WebAPI\TC.Model\obj\Debug\netcoreapp3.1\TC.Model.csprojAssemblyReference.cache

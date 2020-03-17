@@ -1,0 +1,13 @@
+D:\TT\TC.WebAPI\TC.Service\obj\Debug\netcoreapp3.1\TC.Service.csprojAssemblyReference.cache
+D:\TT\TC.WebAPI\TC.Service\obj\Debug\netcoreapp3.1\TC.Service.AssemblyInfoInputs.cache
+D:\TT\TC.WebAPI\TC.Service\obj\Debug\netcoreapp3.1\TC.Service.AssemblyInfo.cs
+D:\TT\TC.WebAPI\TC.Service\bin\Debug\netcoreapp3.1\TC.Service.deps.json
+D:\TT\TC.WebAPI\TC.Service\bin\Debug\netcoreapp3.1\TC.Service.dll
+D:\TT\TC.WebAPI\TC.Service\bin\Debug\netcoreapp3.1\TC.Service.pdb
+D:\TT\TC.WebAPI\TC.Service\bin\Debug\netcoreapp3.1\TC.Context.dll
+D:\TT\TC.WebAPI\TC.Service\bin\Debug\netcoreapp3.1\TC.Model.dll
+D:\TT\TC.WebAPI\TC.Service\bin\Debug\netcoreapp3.1\TC.Context.pdb
+D:\TT\TC.WebAPI\TC.Service\bin\Debug\netcoreapp3.1\TC.Model.pdb
+D:\TT\TC.WebAPI\TC.Service\obj\Debug\netcoreapp3.1\TC.Service.csproj.CopyComplete
+D:\TT\TC.WebAPI\TC.Service\obj\Debug\netcoreapp3.1\TC.Service.dll
+D:\TT\TC.WebAPI\TC.Service\obj\Debug\netcoreapp3.1\TC.Service.pdb
